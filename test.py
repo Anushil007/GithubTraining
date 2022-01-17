@@ -5,3 +5,7 @@ def func_common():
 def child1():
     func_common()
 # end child1
+
+def child2():
+    func_common()
+# end child2
