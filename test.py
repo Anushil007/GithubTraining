@@ -9,3 +9,7 @@ def child1():
 def child2():
     func_common()
 # end child2
+
+def some_other_func:
+    pass
+# end of some_other_func
