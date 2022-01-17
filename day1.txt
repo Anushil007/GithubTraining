@@ -80,3 +80,74 @@
    80  git log --obeline
    81  git log --oneline
    82  history>h.txt
+   83  clear
+   84  git reset --hard
+   85  git reset HEAD~2
+   86  git reset HEAD~2 --hard
+   87  git log
+   88  git reset HEAD~1
+   89  git reset HEAD~1 --hard
+   90  git log
+   91  clear
+   92  git status
+   93  touch credintials.txt
+   94  touch .gitignore
+   95  git status
+   96  git add.
+   97  git add .
+   98  git status
+   99  git commit -m "Gitignore Demonsteation"
+  100  clear
+  101  git status
+  102  git add credintials.txt
+  103  git add credintials.txt -f
+  104  git status
+  105  git rm --catched credintials.txt
+  106  git rm --cached credintials.txt
+  107  git status
+  108  clear
+  109  git log --onelinegit log --oneline
+  110  git log 
+  111  git log --oneline
+  112  git rm h.txt
+  113  git status
+  114  git reset
+  115  git reset --hard
+  116  git rm h.txt
+  117  git status
+  118  git commit -m"Deleted h.txt"
+  119  git status
+  120  git reset --hard
+  121  git status
+  122  git log
+  123  git revert HEAD
+  124  git status
+  125  git add show.txt
+  126  git commit -m"College Name"
+  127  git status
+  128  git add show.txt
+  129  git commit -m"College address added"
+  130  git status
+  131  git add show.txt
+  132  git commit -m"Address Corrected"
+  133  git status
+  134  git log -oneline
+  135  git log --oneline
+  136  git show lf1d543
+  137  git show 1f1d543
+  138  
+  139  
+  140  git show 1f1d543
+  141  git show a40f835
+  142  clear
+  143  git log --oneline
+  144  git status
+  145  git add .
+  146  git commit -m"@ files changed"
+  147  git log -oneline
+  148  git log --oneline
+  149  git show 4f98a5b
+  150  git show show.txt
+  151  clear
+  152  git log -p show.txt
+  153  history > day1.txt
