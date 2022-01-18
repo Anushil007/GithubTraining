@@ -18,3 +18,6 @@ def hello():
     pass
 # end hello
 
+def change():
+    pass
+
