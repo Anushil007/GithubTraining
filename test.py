@@ -13,3 +13,7 @@ def child2():
 def some_other_func:
     pass
 # end of some_other_func
+
+def hello():
+    pass
+# end hello
