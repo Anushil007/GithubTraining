@@ -2,18 +2,19 @@ def func_common():
     pass
 # end of func_command
 
-def child1():
+def child3():
     func_common()
-# end child1
+# end child3
 
 def child2():
     func_common()
 # end child2
 
-def some_other_func:
+def other_func:
     pass
-# end of some_other_func
+# end of other_func
 
 def hello():
     pass
 # end hello
+
